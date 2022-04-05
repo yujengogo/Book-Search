@@ -1,11 +1,11 @@
-# README Generator
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  # Book-Search
+
+  [MIT][!license: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
  ##  Description
- This is my rendition of a README generator made using Node.js and Inquirer.js
-
- screencastify link: https://watch.screencastify.com/v/puvU8mAjJ9uZclSqalP6
+ Make RESTful API, and refactor it to be a GraphQL API built with Apollo Server.
  
  ## Table of Contents 
  
@@ -24,21 +24,22 @@
  
  
  ## Usage 
- Open to public use. Creator is not responsible for use.
+ use at your own risk
  
  
  ## License
  This project is licensed under the MIT license.
+ [MIT][!license: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
  
  
  ## Contributing
- Please do not edit
+ non
  
  
  ## Tests
  To run tests, run the following command:
  
- npm test
+ non
  
  ## Questions
- If you have any questions about the repo, open an issue or contact me directly at [bjtr@bu.edu](mailto:bjtr@bu.edu). You can find more of my work at: [brooksrosenberg](https://github.com/brooksrosenberg) 
+ If you have any questions about the repo, open an issue or contact me directly at [yujengogo@gmail.com](mailto:yujengogo@gmail.com). You can find more of my work at: [yujengogo](https://github.com/yujengogo) 
